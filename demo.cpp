@@ -1,12 +1,6 @@
 #include <iostream>
+int main(){
 
-struct 
-{
-    /* data */
-};
-
-
-int main() {
     
     return 0;
 }
